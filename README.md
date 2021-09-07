@@ -1,4 +1,4 @@
-###About Me
+# About Me
 
 Hey there 👋 I'm Arthur, or just “Setembru”. I'm a Brazilian student, programmer and AI enthusiast.
 
