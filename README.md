@@ -5,7 +5,7 @@ Hey there 👋 I'm Arthur, or just “Setembru”. I'm a Brazilian student, prog
 ## Current Works
 
 Nowdays, I'm working on my Bachelor of Information Systems at [**University of São Paulo**](https://www5.usp.br),
-on the [**Institute of Mathematics and Computer Sciences**](icmc.usp.br).
+on the [**Institute of Mathematics and Computer Sciences**](https://www.icmc.usp.br).
 - 🌱 I’m currently learning C and Python.
 - 💞️ I’m looking to collaborate on open source and machine learning projects .
 
